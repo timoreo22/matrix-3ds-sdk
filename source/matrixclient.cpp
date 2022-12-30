@@ -18,8 +18,6 @@
 #define SOC_BUFFERSIZE  0x100000
 #define SYNC_TIMEOUT 10000
 
-#define DEBUG 0
-
 #if DEBUG
 #define D 
 #else
